@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jYJfZmn0/vAuA4qPjhT0fehzrrVn98BztV6Gl6T8xDs=",
+  "Source": "budget_flow_server",
+  "BasePath": "_content/budget_flow_server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

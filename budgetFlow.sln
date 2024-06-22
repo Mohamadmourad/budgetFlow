@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "budget_flow_server", "budget_flow_server\budget_flow_server.csproj", "{9C71F5B5-E5E0-4411-85AA-3427B75CD7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C71F5B5-E5E0-4411-85AA-3427B75CD7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C71F5B5-E5E0-4411-85AA-3427B75CD7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C71F5B5-E5E0-4411-85AA-3427B75CD7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C71F5B5-E5E0-4411-85AA-3427B75CD7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EDE2814-B08E-4476-827F-1F2D8E4D2C40}
+	EndGlobalSection
+EndGlobal
