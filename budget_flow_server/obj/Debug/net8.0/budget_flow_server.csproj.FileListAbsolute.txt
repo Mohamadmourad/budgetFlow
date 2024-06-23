@@ -103,3 +103,4 @@ C:\Users\we\Desktop\budgetFlow\budget_flow_server\obj\Debug\net8.0\refint\budget
 C:\Users\we\Desktop\budgetFlow\budget_flow_server\obj\Debug\net8.0\budget_flow_server.pdb
 C:\Users\we\Desktop\budgetFlow\budget_flow_server\obj\Debug\net8.0\budget_flow_server.genruntimeconfig.cache
 C:\Users\we\Desktop\budgetFlow\budget_flow_server\obj\Debug\net8.0\ref\budget_flow_server.dll
+C:\Users\we\Desktop\budgetFlow\budget_flow_server\obj\Debug\net8.0\budget_flow_server.sourcelink.json

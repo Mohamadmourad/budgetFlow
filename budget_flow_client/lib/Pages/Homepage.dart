@@ -51,7 +51,7 @@ class _HomePageState extends State<HomePage> {
                 children: [
                   Button(label: "expences", color: Colors.redAccent, 
                   onPressed: (){
-                    Navigator.push(context, MaterialPageRoute(builder: (context) =>  Expances(userId: widget.userId, incomeLbn: widget.incomeLbn, incomeUsd: widget.incomeUsd)));
+                    Navigator.push(context, MaterialPageRoute(builder: (context) => new Expances(username: widget.username,userId: widget.userId, incomeLbn: widget.incomeLbn, incomeUsd: widget.incomeUsd)));
                   }),
                   IconButton(
                     onPressed: (){

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("budget_flow_server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ac77d52abfc7e609cb8be180bb249f1fef5c0c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("budget_flow_server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("budget_flow_server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
